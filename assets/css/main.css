@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "tahoma";
+    src: url(../fonts/tahoma.ttf);
+}
+
+body {
+    font-family: "tahoma";
+}
+
+#header {
+    color: #a3a3a2;
+    background-color: white;
+    opacity: 0.4;
+}
+
+.fsize-9 {
+    font-size: 9px;
+}
+
+.fsize-13 {
+    font-size: 13px;
+}
+
+.fsize-18 {
+    font-size: 18px;
+}
+
+.fcolor-red {
+    color: #e30613;
+}
+
+.fcolor-blue {
+    color: #0061a7;
+}
+
+.slider {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+#no-opacity {
+    opacity: 1!important;
+}
