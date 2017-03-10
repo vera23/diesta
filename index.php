@@ -16,6 +16,7 @@
 <style>
     #header {
         background-color: rgba(255, 255, 255, 0.4);
+        position: absolute;
     }
 </style>
 <body>
